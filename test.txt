@@ -1,2 +1,6 @@
 Git and Git Hub lab
+
 Updating with Bash…
+
+Update with Tortoise...
+
